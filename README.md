@@ -10,6 +10,7 @@
   <a href="#visualizations">&nbsp; Visualizations &nbsp;</a> |
   <a href="#references">&nbsp; References &nbsp;</a> |
   <a href="#data">&nbsp; Data &nbsp;</a> |
+  <a href="#wordcloud">&nbsp; Word Cloud &nbsp;</a> |
   <a href="#presentation">&nbsp; Presentation &nbsp;</a> |
   <a href="#aboutus">&nbsp; About us &nbsp;</a>
 </p>
@@ -31,19 +32,19 @@ Through the use of the Tableau software, some infographics have been proposed th
 
 <br>
 <p align="center">
-  <a href="https://public.tableau.com/shared/XN9MSMJNN?:toolbar=n&:display_count=y&:origin=viz_share_link"><img src = "https://github.com/malborroni/Just-Repeat-Hit/blob/master/Visualizations/3_analisi_indice_tempo.PNG" width = "80%"></a>
+  <a href="https://public.tableau.com/shared/XN9MSMJNN?:toolbar=n&:display_count=y&:origin=viz_share_link"><img src = "https://github.com/malborroni/Just-Repeat-Hit/blob/master/Visualizations/3_analisi_indice_tempo.PNG" width = "90%"></a>
 </p>
 
 <p align="center">
-  <a href="https://public.tableau.com/shared/TXRH7KBJT?:toolbar=n&:display_count=y&:origin=viz_share_link"><img src = "https://github.com/malborroni/Just-Repeat-Hit/blob/master/Visualizations/4_distribuzione_ripetitivit%C3%A0.PNG" width = "80%"></a>
+  <a href="https://public.tableau.com/shared/TXRH7KBJT?:toolbar=n&:display_count=y&:origin=viz_share_link"><img src = "https://github.com/malborroni/Just-Repeat-Hit/blob/master/Visualizations/4_distribuzione_ripetitivit%C3%A0.PNG" width = "90%"></a>
 </p>
 
 <p align="center">
-  <a href="https://public.tableau.com/shared/RGNBKKFRF?:toolbar=n&:display_count=y&:origin=viz_share_link"><img src = "https://github.com/malborroni/Just-Repeat-Hit/blob/master/Visualizations/5_ripetitivit%C3%A0_x_genere.PNG" width = "80%"></a>
+  <a href="https://public.tableau.com/shared/RGNBKKFRF?:toolbar=n&:display_count=y&:origin=viz_share_link"><img src = "https://github.com/malborroni/Just-Repeat-Hit/blob/master/Visualizations/5_ripetitivit%C3%A0_x_genere.PNG" width = "90%"></a>
 </p>
 
 <p align="center">
-  <a href="https://public.tableau.com/shared/FJF32GMJ2?:toolbar=n&:display_count=y&:origin=viz_share_link"><img src = "https://github.com/malborroni/Just-Repeat-Hit/blob/master/Visualizations/6_ripetitivit%C3%A0_per_canzoneartista.PNG" width = "80%"></a>
+  <a href="https://public.tableau.com/shared/FJF32GMJ2?:toolbar=n&:display_count=y&:origin=viz_share_link"><img src = "https://github.com/malborroni/Just-Repeat-Hit/blob/master/Visualizations/6_ripetitivit%C3%A0_per_canzoneartista.PNG" width = "90%"></a>
 </p>
 
 
@@ -60,6 +61,15 @@ To access the interactive version of the infographics, click on the images above
 <a name="data"></a>
 ## &#9741; &nbsp; Data
 The data necessary for the development of what is described in the Overview has been obtained through the implementation of some scripts in Python language; these were mainly used to make specific requests through the <a href="https://developer.spotify.com/documentation/web-api/">Spotify</a> and <a href="https://docs.genius.com/">Genius</a> APIs, which allowed to obtain, respectively, a list of artists with all the characteristics of the lyrics of the songs for each artist (*lyrics*) with adjoining audiometric peculiarities or, more simply, information relating to the artist or relating to each song.
+
+<a name="wordcloud"></a>
+## &#9741; &nbsp; Word Cloud
+In order to explore the words used in the songs of the analysed artists, one Word Cloud for each artist was created.<br>
+Three examples can be seen below:
+<p align="center">
+  <a href="https://github.com/malborroni/Just-Repeat-Hit/blob/master/Images/wc_collage.png"><img src = "https://github.com/malborroni/Just-Repeat-Hit/blob/master/Images/wc_collage.png" width = "90%"></a>
+</p>
+
 
 <a name="presentation"></a>
 ## &#9741; &nbsp; Presentation
