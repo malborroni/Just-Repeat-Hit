@@ -23,7 +23,7 @@ The approach used exploits the calculation of an indicator, called the "Repetiti
 Greater attention was paid to the study of the time course of the average Repetitiveness Index and to the analysis of the same index, focusing mainly on an aggregation based on the musical genre.
 
 Main goals:
-- to identify of the obvious directions in the trend of the index;
+- to identify the existence of a trend in the index;
 - to identify which musical genres were more or less repetitive, also trying to understand how the lyrics of the songs could influence these results.
 
 <a name="visualizations"></a>
